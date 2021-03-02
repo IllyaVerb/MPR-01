@@ -1,11 +1,11 @@
 ﻿# MПР-01
 ## Малий Побутовий Робот - 01
 
+<!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="false" poster="assets/images/1.png">
-    <source src="assets/videos/video_ride.mp4" type="mp4">
-  </video>
+  <iframe src="https://www.youtube.com/embed/_fWBUstYvjs" frameborder="0" allowfullscreen="false"> </iframe>
 </figure>
+<!-- blank line -->
 
 Даний робот призначений для пошуку дрібних предметів, що можуть становити загрозу через свій розмір.
 
